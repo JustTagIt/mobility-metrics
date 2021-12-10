@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@mapbox/tile-cover": "^3.0.2",
-    "@oclif/config": "^1.13.0",
+    "@oclif/config": "^1.17.1",
     "@turf/turf": "^5.1.6",
     "byline": "^5.0.0",
     "d3-queue": "^3.0.7",
