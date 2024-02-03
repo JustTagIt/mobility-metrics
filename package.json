@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@mapbox/tile-cover": "^3.0.2",
-    "@oclif/config": "^1.13.0",
+    "@oclif/config": "^1.18.17",
     "@turf/turf": "^5.1.6",
     "byline": "^5.0.0",
     "d3-queue": "^3.0.7",
@@ -23,7 +23,7 @@
     "mkdirp": "^0.5.1",
     "moment": "^2.24.0",
     "recursive-copy": "^2.0.10",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "rimraf": "^2.6.3",
     "sharedstreets": "^0.13.0",
     "through2": "^3.0.1",
